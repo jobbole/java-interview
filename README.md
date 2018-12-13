@@ -6,8 +6,13 @@
 
 ### 目录
 - [面试题](#面试题)
+- [常用脚本](#常用脚本)
 
 ### 面试题
 - [Java 语言](interview/java-lang.md)
 - [JVM](interview/java-jvm.md)
 - [Spring](interview/spring.md)
+
+### 常用脚本
+- Maven常用开发库 [pom.xml](config/common-pom.xml)
+- [log4j.properties](config/log4j.properties)
